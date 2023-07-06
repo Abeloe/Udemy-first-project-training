@@ -1,7 +1,8 @@
 function App() {
   return (
     <div>
-      <h2>Let's get started!</h2>
+      <p>Practicing React...</p>
+      <h1>Exercise done!</h1>
     </div>
   );
 }
